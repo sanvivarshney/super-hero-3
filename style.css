@@ -1,0 +1,47 @@
+.body_background 
+{
+    background-image: url("mlp.png");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+	background-color: rgb(255, 107, 168);
+	font-weight: 900;
+	font-family: sans-serif ;
+	color: white;
+ }
+h3
+{
+	display: inline-block;
+	background-color: rgb(46, 179, 255);
+	font-weight: 800;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
